@@ -3,7 +3,7 @@ charset-normalizer==3.4.4
 idna==3.11
 pyTelegramBotAPI==4.29.1
 requests==2.32.5
-pyTelegramBotAPI==4.29.1
 urllib3==2.5.0
+
 
 
