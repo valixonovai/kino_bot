@@ -1,0 +1,71 @@
+{
+  "1": {
+    "title": "Stiven Xoking koinoti olami.",
+    "year": "2014",
+    "genre": "Biografiya, Drama, Ilmiy",
+    "category": "Fizika, Motivatsiya",
+    "description": "Stiven Xokingning hayoti, nogironligiga qaramay, u koinotni tushuntirgan eng buyuk fiziklardan biri bo‘lgan. Film uning ilmiy izlanishlari va shaxsiy hayotidagi kurashini ko‘rsatadi.",
+    "file_id": "BAACAgIAAxkBAANmaRIToWNnsE9Hxjqf_YuApcorWU4AAuCFAAI9iZBIKY9VEt7g4dM2BA",
+    "added_date": "2025-11-10",
+    "views": 11,
+    "category_id": "motivatsiya"
+  },
+  "2": {
+    "title": "Shoushenkdan qochish (The Shawshank Redemption)",
+    "year": "1994",
+    "genre": "Drama",
+    "category": "Motivatsion, Hayot saboqlari",
+    "description": "Nohaq ayblanib qamoqqa tushgan Endi Dufreynning sabr, aql va umid orqali ozodlikka erishishi haqida. Film insonning ruhiy kuchi, umid va erkinlikka ishonchni chuqur ifodalaydi.",
+    "file_id": "BAACAgIAAxkBAAOlaRIwbGvH4P76RqJQzhm6kcnfzzcAAqiHAAI9iZBIa7ixCHznU-Q2BA",
+    "added_date": "2025-11-10",
+    "views": 4,
+    "downloads": 1,
+    "category_id": "motivatsiya"
+  },
+  "3": {
+    "title": "The Pursuit of Happyness (Baxt Izlash)",
+    "year": "2006",
+    "genre": "Drama, Biografiya",
+    "category": "Motivatsiya",
+    "description": "Kris Gardner o'z o'g'li bilan ko'chada qolib, hech narsaga ega bo'lmagan holda ham baxtga erishish uchun kurashadi. Will Smith ajoyib rol ijro etgan.",
+    "file_id": "BAACAgIAAxkBAAPHaRKZ-DtPA9TrC820YHdhO-FqBLcAAhqKAAI9iZBIswLoQvtKYgs2BA",
+    "added_date": "2025-11-10",
+    "views": 4,
+    "category_id": "motivatsiya",
+    "downloads": 2
+  },
+  "4": {
+    "title": "Whiplash",
+    "year": "2014",
+    "genre": "Drama, Musiqa",
+    "category": "Motivatsiya",
+    "description": "Jazzni o'rganayotgan talabaning eng zo'r barabanchiga aylanish uchun bo'lgan kurashi.",
+    "file_id": "BAACAgIAAxkBAAPOaRKaUEalzQAB9vg_JbaWKWXaT08IAAIcigACPYmQSBt0IzRYGmiANgQ",
+    "added_date": "2025-11-10",
+    "views": 4,
+    "category_id": "motivatsiya",
+    "downloads": 1
+  },
+  "5": {
+    "title": "Ijtimoiy Tarmoq (The Social Network)",
+    "year": "2010",
+    "genre": "Drama, Biografiya",
+    "category": "Tadbirkorlik",
+    "description": "Facebook'ni yaratish tarixi va Mark Zuckerberg'ning muvaffaqiyatga erishish yo'li.",
+    "file_id": "BAACAgIAAxkBAAPVaRKbHU6lit48BoM28tvOkZrGcLoAAiKKAAI9iZBIRZ6aY8eGd-k2BA",
+    "added_date": "2025-11-10",
+    "views": 2,
+    "category_id": "tadbirkorlik"
+  },
+  "6": {
+    "title": "Jobs",
+    "year": "2013",
+    "genre": "Motivatsiya",
+    "category": "Tadbirkorlik",
+    "description": "Steve Jobs'ning Apple kompaniyasini garajdan boshlab dunyoning eng qimmat kompaniyasiga aylantirish tarixi.",
+    "file_id": "BAACAgIAAxkBAAPeaRKcbG_5EkiORKhWJJ6R-wTH_8AAAiiKAAI9iZBIVsvMI3kygHY2BA",
+    "added_date": "2025-11-10",
+    "views": 2,
+    "category_id": "tadbirkorlik"
+  }
+}

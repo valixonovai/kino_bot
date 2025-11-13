@@ -1,0 +1,23 @@
+{
+  "motivatsiya": {
+    "name": "Motivatsiya",
+    "emoji": "💡",
+    "order": 1
+  },
+  "ilmiy_fantastik": {
+    "name": "Ilmiy va Fantastik",
+    "emoji": "🔬",
+    "order": 2
+  },
+  "computer_science": {
+    "name": "Computer Science",
+    "emoji": "💻",
+    "order": 3
+  },
+  "tadbirkorlik": {
+    "name": "Tadbirkorlik",
+    "emoji": "📁",
+    "order": 4,
+    "created_date": "2025-11-11 10:34:53"
+  }
+}
